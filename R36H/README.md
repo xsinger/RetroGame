@@ -1,4 +1,3 @@
-主要是dtb备份 
 我的设备主板型号是 GameConsole R36s Panel 4
 
 1. 安卓：https://github.com/andr36oid/releases/releases
