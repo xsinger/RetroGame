@@ -8,3 +8,4 @@
 6. https://r36s.dpdns.org/dtbTools.html
 7. https://www.reddit.com/r/R36S/comments/1qbmc0y/r36s_darkos_setup_for_new_users/
 8. https://github.com/christianhaitian/dArkOS
+9. https://handhelds.wiki/R36S_Themes
